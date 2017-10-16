@@ -1,3 +1,3 @@
 # hello-world
 Starting of Github
-Just tryibg to learn github
+Just trying to learn github
